@@ -8,6 +8,14 @@
 
 `ls` list directory contents - this command lists the everything which that are in your current directory-
 
+`cd` change directory
+
+`mkdir` make directory if you have two words write mkdir "anıl notes"
+
+`clear` clear the terminal
+
+`cd ..`  go to upper file
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
