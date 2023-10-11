@@ -16,6 +16,8 @@
 
 `cd ..`  go to upper file
 
+`touch` Ex: touch notes.txt  tocuh print.py
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
