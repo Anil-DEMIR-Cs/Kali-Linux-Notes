@@ -16,7 +16,7 @@
 
 `cd ..`  go to upper file
 
-`touch` Ex: touch notes.txt  tocuh print.py
+`touch` Ex: touch notes.txt  touch print.py
 
 `ifconfig` it shows your ip adress
 
