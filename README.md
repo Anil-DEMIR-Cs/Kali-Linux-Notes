@@ -18,6 +18,10 @@
 
 `touch` Ex: touch notes.txt  touch print.py
 
+`mv` cut + paste
+
+`cp` copy + paste
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
