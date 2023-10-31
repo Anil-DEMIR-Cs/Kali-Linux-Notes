@@ -22,6 +22,8 @@
 
 `cp` copy + paste
 
+`rm`  remove  rm -r   rm -rf
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
