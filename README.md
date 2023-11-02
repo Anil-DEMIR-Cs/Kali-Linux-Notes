@@ -24,6 +24,8 @@
 
 `rm`  remove  rm -r   rm -rf
 
+`--help`  shows documantation of command
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
