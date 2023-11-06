@@ -1,6 +1,5 @@
 # Kali-Linux-Notes
 
-### I use here for write my notes down
 
 `setxkbmap tr` because of i use Türkish Keyboard i will change my kb to tr-
 
