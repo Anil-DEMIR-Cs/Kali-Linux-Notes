@@ -25,6 +25,8 @@
 
 `--help`  shows documantation of command
 
+`sudo su`  super user do
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
