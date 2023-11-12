@@ -27,6 +27,8 @@
 
 `sudo su`  super user do
 
+`exit`  exit from user
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
