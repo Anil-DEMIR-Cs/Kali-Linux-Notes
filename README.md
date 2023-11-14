@@ -29,6 +29,12 @@
 
 `exit`  exit from user
 
+`apt update` this command will update itself for reach newest sources
+
+`apt upgrade` for whole programs update
+
+`apt install` apt install wireshark
+
 `ifconfig` it shows your ip adress
 
 `cat` for read text etc.-
