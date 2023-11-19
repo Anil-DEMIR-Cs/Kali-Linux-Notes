@@ -35,6 +35,8 @@
 
 `apt install` apt install wireshark
 
-`ifconfig` it shows your ip adress
-
 `cat` for read text etc.-
+
+`nano` for write text nano notes.txt
+
+`ifconfig` it shows your ip adress
