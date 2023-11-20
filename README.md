@@ -39,4 +39,6 @@
 
 `nano` for write text nano notes.txt
 
+`vim` same as nano but it's complicated to use
+
 `ifconfig` it shows your ip adress
