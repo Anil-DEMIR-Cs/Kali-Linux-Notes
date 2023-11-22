@@ -41,4 +41,6 @@
 
 `vim` same as nano but it's complicated to use
 
+`passwd` for changing user's password
+
 `ifconfig` it shows your ip adress
