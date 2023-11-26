@@ -8,7 +8,7 @@
 `ls` list directory contents - this command lists the everything which that are in your current directory-
 
 `cd` change directory
-..  go to upper file
+`cd ..`  go to upper file
   
 `mkdir` make directory if you have two words write mkdir "anıl notes"
 
