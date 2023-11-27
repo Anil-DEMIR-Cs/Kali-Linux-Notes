@@ -1,11 +1,15 @@
 # Kali-Linux-Notes
 
 
-`setxkbmap tr` because of i use Türkish Keyboard i will change my kb to tr-
+`setxkbmap tr` change keyboard to Tr-
 
 `pwd` print working directory - this command writes to directory which you are in-
 
 `ls` list directory contents - this command lists the everything which that are in your current directory-
+
+`ls -l` it shows detailed list
+
+`ls -a` it shows files which start with dot (.)
 
 `cd` change directory
 
