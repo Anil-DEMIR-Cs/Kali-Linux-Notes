@@ -47,4 +47,6 @@
 
 `passwd` for changing user's password
 
+`up arrow` brings last command lines
+
 `ifconfig` it shows your ip adress
