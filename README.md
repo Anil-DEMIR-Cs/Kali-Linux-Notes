@@ -49,4 +49,6 @@
 
 `up arrow` brings last command lines
 
+`>`  redirect example date > today.txt   it writes output of date command to today.txt
+
 `ifconfig` it shows your ip adress
