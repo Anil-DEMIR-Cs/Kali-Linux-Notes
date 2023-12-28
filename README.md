@@ -51,4 +51,6 @@
 
 `>`  redirect example date > today.txt   it writes output of date command to today.txt
 
+`>>` overwrite to file. the up one removes everytihng and writes what you redirect. tihs one writes without delete anything in file.
+
 `ifconfig` it shows your ip adress
