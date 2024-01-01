@@ -52,7 +52,7 @@
 `>`  redirect example date > today.txt   it writes output of date command to today.txt
 
 
-`>>` The command which stands up removes everytihng and writes what you redirect. This one writes addly without delete anything in file.
+`>>` The command which stands up removes everything and writes what you redirect. This one writes addly without delete anything in file.
 
 
 `ifconfig` it shows your ip adress
